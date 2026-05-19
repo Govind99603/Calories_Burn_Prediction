@@ -1,6 +1,4 @@
-========================================================
-            CALORIES BURN PREDICTION PROJECT
-========================================================
+### CALORIES BURN PREDICTION PROJECT
 
 Project Overview
 ----------------
